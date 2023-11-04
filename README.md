@@ -1,1 +1,3 @@
-# Functional-programming-Haskell-
+# Functional-programming-Haskell 
+
+- Functional programming in Haskell  
