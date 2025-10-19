@@ -48,5 +48,8 @@ func' f x n = take n (iterate f x )
 
 
 
+
+
+
 f1 :: Int -> [Int]
 f1 n=  take n (func (+1) 0 n)
